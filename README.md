@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeimosMD
-- 👀 I’m interested in game dev and machine learning
-- 🌱 I’m currently learning complex design patterns in java
+- 👀 I’m interested in game dev and cybersecurity
+- 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on game engines. such as the one I'm making myself
 - 📫 How to reach me is matthewrdilley@yahoo.com
 - 😄 Pronouns: IM A MAN
