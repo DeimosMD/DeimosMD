@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @DeimosMD
-- 👀 I’m interested in game dev and cybersecurity
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on game engines. such as the one I'm making myself
-- 📫 How to reach me is matthewrdilley@yahoo.com
-- 😄 Pronouns: IM A MAN
-- ⚡ Fun fact: I do kickboxing and wrestling
+Hi, I’m @DeimosMD
 
-<!---
-DeimosMD/DeimosMD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ - interested in game dev, data science, and cybersecurity
+ - currently receiving education in cybersecurity
+ - looking to callaborate on game engines, 3d renderers, and development utilities
+ - well versed in java, also decent at kotlin, C#, and python
+ - reachable at matthewrdilley@yahoo.com
